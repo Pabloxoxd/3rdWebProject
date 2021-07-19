@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(163, 177, 152);
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+    color: white;
+    font-size: 25pt;
+}
+footer{
+    text-align: center;
+}
+section{
+    background: white;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px thistle;
+    margin: auto;
+}
+div#inputs{
+    text-align: left;
+    margin-left: 25px;
+}
+input#end{
+    margin-left: 15px;
+}
+input#end{
+    margin-top: 15px;
+}
+input#pitch{
+    margin-left: 6px;
+    margin-top: 15px;
+}
+input#btn{
+    background:rgb(27, 97, 9);
+    color:cornsilk;
+    border:rgb(78, 65, 255);
+    padding: 6px;
+    border-radius: 6px;
+}
+p#result{
+    margin-left:25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+    
+}
+h3#main{
+    color:rgb(101, 150, 89);
+    text-align: center;
+}
